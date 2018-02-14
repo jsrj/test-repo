@@ -1,0 +1,9 @@
+# Structure:
+# "#"        = Comment line.
+# "Filename" = Name of file within repo or directory.
+# "=>"       = Symbol that associates a file to a route. 
+# "Route"    = The associated path within a repo directory to a specific file.
+#
+# e.g.   [Filename] => [route]
+#
+testfile7.txt => /dl1-c/dl2-c1/
