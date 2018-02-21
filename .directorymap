@@ -6,4 +6,15 @@
 #
 # e.g.   [Filename] => [route]
 #
+
+testfile.txt => /dl1-a/dl2-a/
+testfile2.txt => /dl1-a/dl2-b/ 
+testfile3.txt => /dl1-a/dl2-c/
+testfile4.txt => /dl1-a/dl2-d/
+testfile5.txt => /dl1-a/dl2-a1/
+testfile6.txt => /dl1-a/dl2-b1/
 testfile7.txt => /dl1-c/dl2-c1/
+testfile8.txt
+
+# Non-existent file for erroneous directory map testing
+testfile9.txt => /dl3-1/
